@@ -4,6 +4,6 @@ class Obstacle1 {
         this.car.addImage(random(obstacleImg));
         this.car.velocityY = 5;
         this.car.scale = 0.3;
-        this.car.lifetime = 100;
+        this.car.lifetime = 200;
     }
 }
